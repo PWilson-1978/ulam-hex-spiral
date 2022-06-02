@@ -5,4 +5,6 @@ I created a variation of the ulam spiral and made it a hexagon with 3 axii.  The
 
 The _t version uses an initial list of prime values up to 5,000. If the square root value is higher than that, the routine will add new prime values under that to the list and print them out at the end of the processing.  The check for primes won't be on every number below the square root but will only be the prime numbers.
 
-In the _t run, I happened to notice that at least one number was identified as a prime, but didn't appear in the hex drawing.  To avoid a crunch of numbers in the center, I tossed out a few values so that seems to be why it did appear.  I tested the routine and started with a lower number and the number appeared in blue in the hex pattern.
+In the t run, I happened to notice that at least one number was identified as a prime, but didn't appear in the hex drawing.  To avoid a crunch of numbers in the center, I tossed out a few values so that seems to be why it did appear.  I tested the routine and started with a lower number and the number appeared in blue in the hex pattern.
+
+I think my prime routine in the t version is having issues so I'm currently working on that.
