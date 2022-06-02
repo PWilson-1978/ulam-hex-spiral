@@ -7,4 +7,4 @@ The _t version uses an initial list of prime values up to 5,000. If the square r
 
 In the t run, I happened to notice that at least one number was identified as a prime, but didn't appear in the hex drawing.  To avoid a crunch of numbers in the center, I tossed out a few values so that seems to be why it did appear.  I tested the routine and started with a lower number and the number appeared in blue in the hex pattern.
 
-I think my prime routine in the t version is having issues so I'm currently working on that.
+I removed my t version and I think I fixed the issues in the tx version.  Will continue to check and try to improve this.
