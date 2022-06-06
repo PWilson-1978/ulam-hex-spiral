@@ -3,9 +3,9 @@ from datetime import datetime
 
 # not current implement 
 print("Numbers separated by : - starting and number range like 5020:100")
-#cStr = input()
+cStr = input()
 
-#cNuml = cStr.split(':')
+cNuml = cStr.split(':')
 
 cNum = int(cNuml[0])
 cNum2 = int(cNuml[1])
@@ -18,12 +18,12 @@ print('cNumR: ', cNumR)
 
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
-print("Current Time is :", current_time)
+#print("Current Time is :", current_time)
 
 
 def prime_spoke(tval, sval):
 
-    for i in range(1500):
+    for i in range(cNum,cNum2):
         tval = 6 * i + sval
         prime_id = 0
 
@@ -39,7 +39,7 @@ def prime_spoke(tval, sval):
         if prime_id == 0:
             slistc.append(tval)
 
-        print('tval: ', tval, 'prime: ', prime_id)
+        print('tval: ', tval, 'prime: ', prime_id, 'mult of 6: ', i)
 
 def is_prime(value):
 
@@ -83,5 +83,14 @@ print('slist1c len: ', len(slist1c))
 print('slistp len:  ', len(slistp))
 print('slistc len:  ', len(slistc))
 
+print('')
+print('Next start is: ', cNum2+1)
 
-    
+
+current_time = now.strftime("%H:%M:%S")
+print("Start Time is :", current_time)
+
+now = datetime.now()
+end_time = now.strftime("%H:%M:%S") 
+print('End Time is: ', end_time)
+   
