@@ -3,7 +3,7 @@ import math as m
 from datetime import datetime
 
 '''
-author: Paula Wilson, 20220529 
+author: P Wilson, 20220529 
  
 This routine will create a hexagon pattern with the primes all appearing on the upward diagonal radii.
 
