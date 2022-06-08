@@ -3,7 +3,7 @@ import math as m
 from datetime import datetime
 
 '''
-author: Paula Wilson, 20220529 
+author: P Wilson, 20220529 
  
 This routine will create a hexagon pattern with the primes all appearing on the upward diagonal radii.
 
@@ -14,6 +14,7 @@ If more than 250 is used for a range, the screen commands will stop, but the pri
 
 Started with code from geekforgeeks, stackoverflow and possibly other sources
 
+Still working on this routine.
 '''
 
 print("Numbers separated by : - starting and number range like 5020:100")
