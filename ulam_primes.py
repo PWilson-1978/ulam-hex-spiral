@@ -1,7 +1,7 @@
 import math as m
 from datetime import datetime
+# P Wilson 20220607 - this routine generates lists of the primes and nonprimes from the hex radiis that are associated with 5 and 7
 
-# not current implement 
 print("Numbers separated by : - starting and number range like 5020:100")
 cStr = input()
 
