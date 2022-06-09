@@ -10,3 +10,5 @@ In the t run, I happened to notice that at least one number was identified as a 
 I removed my t version and I think I fixed the issues in the tx version.  Will continue to check and try to improve this.
 
 I may go back eventually and clean up my main program.  The initial positioning could probably be optimized because I was just hastily trying to get a good hexagon, and didn't worry about the start as long as it was working for the end result.  I'm sure I could do a lot more like naming variables better.
+
+In the ulam_primes, I was creating lists of primes and the composites in the 5 and 7 radii lines.  That actually processed quickly so I checked the prime numbers it generated against the list of primes up to 1000 on wikipedia and it looks like those are all correct, so that may actually be a quicker method but I'll still try to check it.  I basically just passed in a number of times to loop and a value to add, and the routine just multiplied the first value by 6 and then added the second.
