@@ -1,0 +1,308 @@
+Python 3.10.0 (v3.10.0:b494f5935c, Oct  4 2021, 14:59:20) [Clang 12.0.5 (clang-1205.0.22.11)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+import ulamprimest.py
+Numbers separated by : - starting and number range like 5020:100
+500:50
+cNum:  500
+cNum2:  550
+cNumR:  50
+x:  1
+square root:  55
+valt:  2999 ; chk:  2 ; prime:  1 ; mult6:  500
+x:  2
+square root:  55
+valt:  3001 ; chk:  2 ; prime:  1 ; mult6:  500
+x:  1
+valt:  3005 ; chk:  0 ; prime:  0 ; mult6:  501
+x:  2
+square root:  55
+valt:  3007 ; chk:  2 ; prime:  0 ; mult6:  501
+x:  1
+square root:  55
+valt:  3011 ; chk:  2 ; prime:  1 ; mult6:  502
+x:  2
+square root:  55
+valt:  3013 ; chk:  2 ; prime:  0 ; mult6:  502
+x:  1
+square root:  55
+valt:  3017 ; chk:  2 ; prime:  0 ; mult6:  503
+x:  2
+square root:  55
+valt:  3019 ; chk:  2 ; prime:  1 ; mult6:  503
+x:  1
+square root:  55
+valt:  3023 ; chk:  2 ; prime:  1 ; mult6:  504
+x:  2
+valt:  3025 ; chk:  0 ; prime:  0 ; mult6:  504
+x:  1
+square root:  56
+valt:  3029 ; chk:  2 ; prime:  0 ; mult6:  505
+x:  2
+square root:  56
+valt:  3031 ; chk:  2 ; prime:  0 ; mult6:  505
+x:  1
+valt:  3035 ; chk:  0 ; prime:  0 ; mult6:  506
+x:  2
+square root:  56
+valt:  3037 ; chk:  2 ; prime:  1 ; mult6:  506
+x:  1
+square root:  56
+valt:  3041 ; chk:  2 ; prime:  1 ; mult6:  507
+x:  2
+square root:  56
+valt:  3043 ; chk:  2 ; prime:  0 ; mult6:  507
+x:  1
+square root:  56
+valt:  3047 ; chk:  2 ; prime:  0 ; mult6:  508
+x:  2
+square root:  56
+valt:  3049 ; chk:  2 ; prime:  1 ; mult6:  508
+x:  1
+square root:  56
+valt:  3053 ; chk:  2 ; prime:  0 ; mult6:  509
+x:  2
+valt:  3055 ; chk:  0 ; prime:  0 ; mult6:  509
+x:  1
+square root:  56
+valt:  3059 ; chk:  2 ; prime:  0 ; mult6:  510
+x:  2
+square root:  56
+valt:  3061 ; chk:  2 ; prime:  1 ; mult6:  510
+x:  1
+valt:  3065 ; chk:  0 ; prime:  0 ; mult6:  511
+x:  2
+square root:  56
+valt:  3067 ; chk:  2 ; prime:  1 ; mult6:  511
+x:  1
+square root:  56
+valt:  3071 ; chk:  2 ; prime:  0 ; mult6:  512
+x:  2
+square root:  56
+valt:  3073 ; chk:  2 ; prime:  0 ; mult6:  512
+x:  1
+square root:  56
+valt:  3077 ; chk:  2 ; prime:  0 ; mult6:  513
+x:  2
+square root:  56
+valt:  3079 ; chk:  2 ; prime:  1 ; mult6:  513
+x:  1
+square root:  56
+valt:  3083 ; chk:  2 ; prime:  1 ; mult6:  514
+x:  2
+valt:  3085 ; chk:  0 ; prime:  0 ; mult6:  514
+x:  1
+square root:  56
+valt:  3089 ; chk:  2 ; prime:  1 ; mult6:  515
+x:  2
+square root:  56
+valt:  3091 ; chk:  2 ; prime:  0 ; mult6:  515
+x:  1
+valt:  3095 ; chk:  0 ; prime:  0 ; mult6:  516
+x:  2
+square root:  56
+valt:  3097 ; chk:  2 ; prime:  0 ; mult6:  516
+x:  1
+square root:  56
+valt:  3101 ; chk:  2 ; prime:  0 ; mult6:  517
+x:  2
+square root:  56
+valt:  3103 ; chk:  2 ; prime:  0 ; mult6:  517
+x:  1
+square root:  56
+valt:  3107 ; chk:  2 ; prime:  0 ; mult6:  518
+x:  2
+square root:  56
+valt:  3109 ; chk:  2 ; prime:  1 ; mult6:  518
+x:  1
+square root:  56
+valt:  3113 ; chk:  2 ; prime:  0 ; mult6:  519
+x:  2
+valt:  3115 ; chk:  0 ; prime:  0 ; mult6:  519
+x:  1
+square root:  56
+valt:  3119 ; chk:  2 ; prime:  1 ; mult6:  520
+x:  2
+square root:  56
+valt:  3121 ; chk:  2 ; prime:  1 ; mult6:  520
+x:  1
+valt:  3125 ; chk:  0 ; prime:  0 ; mult6:  521
+x:  2
+square root:  56
+valt:  3127 ; chk:  2 ; prime:  0 ; mult6:  521
+x:  1
+square root:  56
+valt:  3131 ; chk:  2 ; prime:  0 ; mult6:  522
+x:  2
+square root:  56
+valt:  3133 ; chk:  2 ; prime:  0 ; mult6:  522
+x:  1
+square root:  57
+valt:  3137 ; chk:  2 ; prime:  1 ; mult6:  523
+x:  2
+square root:  57
+valt:  3139 ; chk:  2 ; prime:  0 ; mult6:  523
+x:  1
+square root:  57
+valt:  3143 ; chk:  2 ; prime:  0 ; mult6:  524
+x:  2
+valt:  3145 ; chk:  0 ; prime:  0 ; mult6:  524
+x:  1
+square root:  57
+valt:  3149 ; chk:  2 ; prime:  0 ; mult6:  525
+x:  2
+square root:  57
+valt:  3151 ; chk:  2 ; prime:  0 ; mult6:  525
+x:  1
+valt:  3155 ; chk:  0 ; prime:  0 ; mult6:  526
+x:  2
+square root:  57
+valt:  3157 ; chk:  2 ; prime:  0 ; mult6:  526
+x:  1
+square root:  57
+valt:  3161 ; chk:  2 ; prime:  0 ; mult6:  527
+x:  2
+square root:  57
+valt:  3163 ; chk:  2 ; prime:  1 ; mult6:  527
+x:  1
+square root:  57
+valt:  3167 ; chk:  2 ; prime:  1 ; mult6:  528
+x:  2
+square root:  57
+valt:  3169 ; chk:  2 ; prime:  1 ; mult6:  528
+x:  1
+square root:  57
+valt:  3173 ; chk:  2 ; prime:  0 ; mult6:  529
+x:  2
+valt:  3175 ; chk:  0 ; prime:  0 ; mult6:  529
+x:  1
+square root:  57
+valt:  3179 ; chk:  2 ; prime:  0 ; mult6:  530
+x:  2
+square root:  57
+valt:  3181 ; chk:  2 ; prime:  1 ; mult6:  530
+x:  1
+valt:  3185 ; chk:  0 ; prime:  0 ; mult6:  531
+x:  2
+square root:  57
+valt:  3187 ; chk:  2 ; prime:  1 ; mult6:  531
+x:  1
+square root:  57
+valt:  3191 ; chk:  2 ; prime:  1 ; mult6:  532
+x:  2
+square root:  57
+valt:  3193 ; chk:  2 ; prime:  0 ; mult6:  532
+x:  1
+square root:  57
+valt:  3197 ; chk:  2 ; prime:  0 ; mult6:  533
+x:  2
+square root:  57
+valt:  3199 ; chk:  2 ; prime:  0 ; mult6:  533
+x:  1
+square root:  57
+valt:  3203 ; chk:  2 ; prime:  1 ; mult6:  534
+x:  2
+valt:  3205 ; chk:  0 ; prime:  0 ; mult6:  534
+x:  1
+square root:  57
+valt:  3209 ; chk:  2 ; prime:  1 ; mult6:  535
+x:  2
+square root:  57
+valt:  3211 ; chk:  2 ; prime:  0 ; mult6:  535
+x:  1
+valt:  3215 ; chk:  0 ; prime:  0 ; mult6:  536
+x:  2
+square root:  57
+valt:  3217 ; chk:  2 ; prime:  1 ; mult6:  536
+x:  1
+square root:  57
+valt:  3221 ; chk:  2 ; prime:  1 ; mult6:  537
+x:  2
+square root:  57
+valt:  3223 ; chk:  2 ; prime:  0 ; mult6:  537
+x:  1
+square root:  57
+valt:  3227 ; chk:  2 ; prime:  0 ; mult6:  538
+x:  2
+square root:  57
+valt:  3229 ; chk:  2 ; prime:  1 ; mult6:  538
+x:  1
+square root:  57
+valt:  3233 ; chk:  2 ; prime:  0 ; mult6:  539
+x:  2
+valt:  3235 ; chk:  0 ; prime:  0 ; mult6:  539
+x:  1
+square root:  57
+valt:  3239 ; chk:  2 ; prime:  0 ; mult6:  540
+x:  2
+square root:  57
+valt:  3241 ; chk:  2 ; prime:  0 ; mult6:  540
+x:  1
+valt:  3245 ; chk:  0 ; prime:  0 ; mult6:  541
+x:  2
+square root:  57
+valt:  3247 ; chk:  2 ; prime:  0 ; mult6:  541
+x:  1
+square root:  58
+valt:  3251 ; chk:  2 ; prime:  1 ; mult6:  542
+x:  2
+square root:  58
+valt:  3253 ; chk:  2 ; prime:  1 ; mult6:  542
+x:  1
+square root:  58
+valt:  3257 ; chk:  2 ; prime:  1 ; mult6:  543
+x:  2
+square root:  58
+valt:  3259 ; chk:  2 ; prime:  1 ; mult6:  543
+x:  1
+square root:  58
+valt:  3263 ; chk:  2 ; prime:  0 ; mult6:  544
+x:  2
+valt:  3265 ; chk:  0 ; prime:  0 ; mult6:  544
+x:  1
+square root:  58
+valt:  3269 ; chk:  2 ; prime:  0 ; mult6:  545
+x:  2
+square root:  58
+valt:  3271 ; chk:  2 ; prime:  1 ; mult6:  545
+x:  1
+valt:  3275 ; chk:  0 ; prime:  0 ; mult6:  546
+x:  2
+square root:  58
+valt:  3277 ; chk:  2 ; prime:  0 ; mult6:  546
+x:  1
+square root:  58
+valt:  3281 ; chk:  2 ; prime:  0 ; mult6:  547
+x:  2
+square root:  58
+valt:  3283 ; chk:  2 ; prime:  0 ; mult6:  547
+x:  1
+square root:  58
+valt:  3287 ; chk:  2 ; prime:  0 ; mult6:  548
+x:  2
+square root:  58
+valt:  3289 ; chk:  2 ; prime:  0 ; mult6:  548
+x:  1
+square root:  58
+valt:  3293 ; chk:  2 ; prime:  0 ; mult6:  549
+x:  2
+valt:  3295 ; chk:  0 ; prime:  0 ; mult6:  549
+1:  [2999, 3011, 3023, 3041, 3083, 3089, 3119, 3137, 3167, 3191, 3203, 3209, 3221, 3251, 3257]
+
+2:  [3005, 3017, 3029, 3035, 3047, 3053, 3059, 3065, 3071, 3077, 3095, 3101, 3107, 3113, 3125, 3131, 3143, 3149, 3155, 3161, 3173, 3179, 3185, 3197, 3215, 3227, 3233, 3239, 3245, 3263, 3269, 3275, 3281, 3287, 3293]
+
+3:  [3001, 3019, 3037, 3049, 3061, 3067, 3079, 3109, 3121, 3163, 3169, 3181, 3187, 3217, 3229, 3253, 3259, 3271]
+
+4:  [3007, 3013, 3025, 3031, 3043, 3055, 3073, 3085, 3091, 3097, 3103, 3115, 3127, 3133, 3139, 3145, 3151, 3157, 3175, 3193, 3199, 3205, 3211, 3223, 3235, 3241, 3247, 3265, 3277, 3283, 3289, 3295]
+slistap len:  15
+slistac len:  35
+slistbp len:  18
+slistbc len:  32
+
+slistp:  [2999, 3001, 3011, 3019, 3023, 3037, 3041, 3049, 3061, 3067, 3079, 3083, 3089, 3109, 3119, 3121, 3137, 3163, 3167, 3169, 3181, 3187, 3191, 3203, 3209, 3217, 3221, 3229, 3251, 3253, 3257, 3259, 3271]
+slistc:  [3005, 3007, 3013, 3017, 3025, 3029, 3031, 3035, 3043, 3047, 3053, 3055, 3059, 3065, 3071, 3073, 3077, 3085, 3091, 3095, 3097, 3101, 3103, 3107, 3113, 3115, 3125, 3127, 3131, 3133, 3139, 3143, 3145, 3149, 3151, 3155, 3157, 3161, 3173, 3175, 3179, 3185, 3193, 3197, 3199, 3205, 3211, 3215, 3223, 3227, 3233, 3235, 3239, 3241, 3245, 3247, 3263, 3265, 3269, 3275, 3277, 3281, 3283, 3287, 3289, 3293, 3295]
+slistp len:  33
+slibtc len:  67
+
+Next start is:  551
+Start Time is : 21:45:57
+End Time is:  21:46:57
