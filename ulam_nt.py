@@ -77,8 +77,8 @@ def is_prime(value,*opt):
             if not opt == 'pprimes':    
                 check_vals(pprimes)
                 pprimes.clear()
-            elif opt == '':
-                slistp.add(l)
+            #elif opt == '':
+            #   slistp.add(l)
 
             return True
 
