@@ -20,3 +20,5 @@ ulam_n1 - This replaces what I tried with ulam_tx version.  I used lambda functi
 ulam_nt - Changed most of the lists to sets to see if the routine would run quicker.  Will keep trying to use different containers to determine which might be the best for this routine.  Also, instead of printing the lists to the screen, writes out a file with a name in the format of ulam_nt_[date]_[time].txt.
 
 Added prime_form to show python-esk code for a complex formula to reliably identify prime numbers that I found as a youtube video.
+
+Ulam_nt1 - a version I worked on to see if it would run faster.  I think it actually ran a minute slower for a range based on my childhood phone number 8169319011 to 1000.  I think this version took 15 minutes and the old nt version took 13-14 minutes.  I'll try to compare the differences.
