@@ -12,7 +12,7 @@ def is_prime(val):
     for p in range(3,val):
         if val_chk(p):
 
-            myval = (p**(val-1)) % val
+            myval = (p**(val-1)+1) % val
 
             if myval == 1:
                 return 1
