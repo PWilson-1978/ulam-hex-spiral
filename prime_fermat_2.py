@@ -14,7 +14,7 @@ def val_chk(val):
 
 def is_prime(val):
     flist = []
-    for i in range(0,3): #test 3 random values from the list
+    for i in range(0,2): #test 3 random values from the list
 
         p = r.choice(plist)
         #print('Value of p:', p)
