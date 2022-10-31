@@ -23,4 +23,4 @@ Added prime_form to show python-esk code for a complex formula to reliably ident
 
 Ulam_nt1 - a version I worked on to see if it would run faster.  I think it actually ran a minute slower for a range based on my childhood phone number 8169319011 to 1000.  I think this version took 15 minutes and the old nt version took 13-14 minutes.  I'll try to compare the differences.
 
-Hopefully, the holy grail.  Prime_fermat uses Fermat's little theorem and my addition of value % 6 in (1,5) and lastnum(value) in(1,,3,7,9) to further isolate prime values.
+Hopefully, the holy grail.  Prime_fermat uses Fermat's little theorem and my addition of value % 6 in (1,5) and lastnum(value) in(1,,3,7,9) to further isolate prime values.  The 2 and 3 versions are just enhancements.  The 3 uses a range function with an if statement to create a list - an improvement over the for loop that may not be optimal.  Also uses 3 random values to test the target value.  If all are 1, the test value is a prime.
